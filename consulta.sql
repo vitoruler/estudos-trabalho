@@ -35,7 +35,7 @@ FROM (
 	 AND SUA.UA_EMISSAO <= '{dataFinal:yyyyMMdd}'
 ) AS orçamento
 
-
+--teste
 
 /*relacionando as tabelas
 
