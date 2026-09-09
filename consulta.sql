@@ -37,6 +37,8 @@ FROM (
 
 --teste
 
+--teste2
+
 /*relacionando as tabelas
 
 SELECT #campos-consulta#
